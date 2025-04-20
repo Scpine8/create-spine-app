@@ -1,6 +1,6 @@
 {
   "name": "create-spine-app",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "bin": {
     "create-spine-app": "index.js"
